@@ -68,6 +68,11 @@ nav {
       #navbar {
         background-color: #d8dcff; }
 
+.main {
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
 .header {
     display: flex;
     margin: 0;
