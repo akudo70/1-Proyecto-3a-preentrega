@@ -3,19 +3,17 @@
     padding: 0;
     box-sizing: border-box; }
   
-/*Kit de estilos del Documento*/
+/*__________________Kit de estilos del Documento__________________*/
 
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;700&family=Rubik+Gemstones&display=swap');
-/*font-family: 'Poppins', sans-serif;*/
+/*__________________font-family: 'Poppins', sans-serif;__________________*/
 *{
     padding: 0;
     margin: 0;
     font-family: 'Poppins', sans-serif;
 
 }
-/*ESTO ES LA NAV BAR*/
-
-
+/*__________________ESTO ES LA NAV BAR__________________*/
   .collapsing {
     height: 0;
     overflow: hidden;
@@ -71,6 +69,9 @@ nav {
 .main {
   margin-left: 10px;
   margin-right: 10px;
+  margin-top: 34px;
+  background-color: #ffffff;
+  padding-top: 1rem;
 }
 
 .header {
@@ -103,7 +104,7 @@ nav {
 }
 
 
-/*Aspecto de menu visitado */
+/*__________________Aspecto de menu visitado__________________*/
 .contacto {
     font-style: italic;
 }
@@ -117,8 +118,7 @@ nav {
     font-style: italic;
 }
 
-/*BODY home*/
-
+/*__________________BODY home__________________*/
   .col {
     text-align: left; padding: 26px; font-size: small;
   }
@@ -132,8 +132,7 @@ nav {
 
 
 
-  /* ESTO ES EL FOOTER*/
-
+/*__________________ESTO ES EL FOOTER__________________*/
   .contenedor_footer {
     margin: 0; 
     display: flex;
@@ -250,3 +249,8 @@ nav {
     max-width: 200px;
     padding: 0;
     margin: 1px auto 0 auto; }
+
+    /*__________________Fondo________________*/
+    .fondo-apartadoacord {
+      background-color: #d8dcff;
+    }
