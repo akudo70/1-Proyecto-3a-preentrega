@@ -244,7 +244,7 @@ nav {
     margin: 30px auto 0 auto; }
   
   .linea2 {
-    border-top: 1px solid #16d8f6;
+    border-top: 1px solid #ffffff;
     height: 2px;
     max-width: 200px;
     padding: 0;
@@ -253,4 +253,11 @@ nav {
     /*__________________Fondo________________*/
     .fondo-apartadoacord {
       background-color: #d8dcff;
+    }
+
+    /*__________________Contácto______________*/
+
+    .noticia_texto{
+      font-size: small;
+      box-sizing: content-box;
     }
